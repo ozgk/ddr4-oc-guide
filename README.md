@@ -55,14 +55,6 @@
 
 ---
 
-## 1. 🚀 Introdução — Por que fazer OC de RAM?
-
-O overclock de memória RAM é uma das formas mais subestimadas de ganhar performance em um PC. Diferente do que muitos pensam, a RAM não afeta apenas "a quantidade de programas que você pode abrir" — ela influencia diretamente:
-
-- **Latência do sistema** — Menor latência = resposta mais rápida em tudo
-- **FPS em jogos** — Especialmente em jogos CPU-bound (CS2, Valorant, etc.), onde ganhos de 10-20% são comuns
-- **Performance em produtividade** — Compilação, renderização, descompressão
-- **Bandwidth (largura de banda)** — Mais dados por segundo entre CPU e RAM
 
 > [!IMPORTANT]
 > Em plataformas AMD Ryzen, o overclock de RAM é **ainda mais impactante** porque a frequência da memória está diretamente ligada ao Infinity Fabric Clock (FCLK), que conecta os CCX/CCD do processador.
